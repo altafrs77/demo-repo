@@ -1,5 +1,3 @@
-# demo-repo
-this is demo repository
-content changed 
-this is line 3 
+# demo-Project
+This is test code for jenkins project. 
 
